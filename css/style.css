@@ -6,9 +6,7 @@ body {
     float: left;
     width: 33.33%;
 }
-.row:after {
-    content: "";
-    display: table;
+.row {
     clear: both;
 }
 .column1 {
